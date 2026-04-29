@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "33E7AAD40FF16744F36918B6099052B7",
+      "domain": "o2.openmrs.org",
+      "path": "/openmrs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "referenceapplication.lastSessionLocation",
+      "value": "6",
+      "domain": "o2.openmrs.org",
+      "path": "/openmrs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_REFERENCE_APPLICATION_LAST_USER_",
+      "value": "63116079",
+      "domain": "o2.openmrs.org",
+      "path": "/openmrs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
