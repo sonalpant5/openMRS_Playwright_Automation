@@ -170,6 +170,4 @@ async verifyRegistrationSuccess(expectedName: string) {
 
   expect(actual).toContain(expected);
 }
-
-
 }
